@@ -77,8 +77,8 @@ type = "page"
 target = "services"
 href = "/services"
 
-# [[navigation]]
-# title = "CV"
-# type = "link"
-# target = "cv"
-# href = "/CV_HoinJung_2026.pdf"
+[[navigation]]
+title = "CV"
+type = "link"
+target = "cv"
+href = "/Park, Jae Eun_CV.pdf"
