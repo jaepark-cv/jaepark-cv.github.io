@@ -1,0 +1,73 @@
+type = "card"
+title = "Teaching"
+description = "Courses I have taught or assisted with."
+
+[[items]]
+title = "CSR 315 Relationship Selling"
+subtitle = "Teaching Assistant, Purdue University"
+date = "Spring 2026"
+content = "Supported course delivery for Relationship Selling, assisting students with course material and coursework."
+tags = ["Sales", "Role Play"]
+
+[[items]]
+title = "HTM 255 Fundamentals of Excel & Data Analytics in Services Industries"
+subtitle = "Teaching Assistant (Recitation Instructor), Purdue University"
+date = "Spring 2026"
+content = "Led recitation sessions covering Excel and data analytics applications for the services industries."
+tags = ["Data Analytics", "Excel"]
+
+[[items]]
+title = "HTM 231 Marketing in Services Industries"
+subtitle = "Instructor of Record, Purdue University"
+date = "Fall 2025"
+content = "Independently designed and delivered course content on marketing principles in services industries (Teaching evaluation: 4.69 out of 5)."
+tags = ["Marketing", "Services Industries"]
+
+[[items]]
+title = "HTM 381 Revenue Management in Services Industries"
+subtitle = "Instructor of Record, Purdue University"
+date = "Spring 2025"
+content = "Independently designed and delivered course content on revenue management strategies in services industries (Teaching evaluation: 4.85 out of 5)."
+tags = ["Revenue Management", "Services Industries"]
+
+[[items]]
+title = "HTM 381 Revenue Management in Services Industries"
+subtitle = "Co-Instructor, Purdue University"
+date = "Fall 2024"
+content = "Co-developed and delivered course content on revenue management strategies in services industries."
+tags = ["Revenue Management", "Services Industries"]
+
+[[items]]
+title = "HTM 231 Marketing in Services Industries"
+subtitle = "Teaching Assistant, Purdue University"
+date = "Spring 2024"
+content = "Supported course delivery for Marketing in Services Industries, assisting students with course material and coursework."
+tags = ["Marketing", "Services Industries"]
+
+[[items]]
+title = "CSR 331 Consumer Behavior"
+subtitle = "Teaching Assistant, Purdue University"
+date = "Fall 2023"
+content = "Supported course delivery for Consumer Behavior, assisting students with course material and coursework."
+tags = ["Consumer Behavior"]
+
+[[items]]
+title = "HTM 370 Sustainable Tourism and Responsible Travel"
+subtitle = "Teaching Assistant, Purdue University"
+date = "Spring 2023"
+content = "Supported course delivery for Sustainable Tourism and Responsible Travel, assisting students with course material and coursework."
+tags = ["Sustainable Tourism"]
+
+[[items]]
+title = "HTM 291 Introduction to Foodservice Management"
+subtitle = "Teaching Assistant (Lab Instructor), Purdue University"
+date = "Fall 2022 – Spring 2023"
+content = "Led lab sessions for Introduction to Foodservice Management, guiding students through hands-on foodservice operations."
+tags = ["Foodservice Management", "Lab Instruction"]
+
+[[items]]
+title = "Python for Web Crawling in the Hospitality Business"
+subtitle = "Co-Instructor (Online), Kyung Hee University"
+date = "Fall 2021"
+content = "Co-designed and delivered an online course on Python-based web crawling applications for the hospitality business."
+tags = ["Python", "Web Crawling"]

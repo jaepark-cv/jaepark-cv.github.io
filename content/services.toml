@@ -1,0 +1,52 @@
+type = "card"
+title = "Services"
+description = "Professional services and community involvement."
+
+[[items]]
+title = "Grant Review & Allocation Committee Reviewer"
+# subtitle = "Grant Review & Allocation Committee, Purdue University"
+date = "Fall 2025 – Present"
+content = """
+Reviewed grant proposals and allocation decisions for the Purdue Graduate Student Association.
+- Top 10% Reviewer Award
+"""
+
+# [[items]]
+# title = "Reviewer"
+# subtitle = "Grant Review & Allocation Committee, Purdue University"
+# date = "Fall 2025 – Present"
+# content = "Reviewed grant proposals and allocation decisions for the Purdue Graduate Student Association (Top 10% Reviewer Award)."
+
+[[items]]
+title = "Ad-hoc Reviewer"
+subtitle = ""
+date = ""
+content = """
+* **International Journal of Tourism Research** (2026 – Present)
+* **British Journal of Management** (2025 – Present)
+* **Journal of Smart Tourism** (2025 – Present)
+"""
+
+# [[items]]
+# title = "Ad-hoc Reviewer"
+# subtitle = "International Journal of Tourism Research"
+# date = "2026 – Present"
+# content = "Reviewed manuscripts submitted to the International Journal of Tourism Research."
+
+# [[items]]
+# title = "Ad-hoc Reviewer"
+# subtitle = "British Journal of Management"
+# date = "2025 – Present"
+# content = "Reviewed manuscripts submitted to the British Journal of Management."
+
+# [[items]]
+# title = "Ad-hoc Reviewer"
+# subtitle = "Journal of Smart Tourism"
+# date = "2025 – Present"
+# content = "Reviewed manuscripts submitted to the Journal of Smart Tourism."
+
+[[items]]
+title = "HTM Graduate Student Association"
+# subtitle = "HTM Graduate Student Association, Purdue University"
+date = "Fall 2024 – Spring 2025"
+content = "Served as Secretary of the HTM GSA at Purdue University."

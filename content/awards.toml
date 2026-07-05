@@ -1,0 +1,50 @@
+type = "card"
+title = "Awards"
+description = "Honors and awards I have received."
+
+[[items]]
+title = "Best Dissertation Proposal Award"
+subtitle = "ICHRIE Annual Dissertation Competition"
+date = "Jun. 2025"
+content = "Awarded for the dissertation proposal \"*Customer Journey in the AI Era: Touchpoints with Digital Platforms Across the Pre-, During-, and Post-Travel Stages.*\""
+
+[[items]]
+title = "Best Paper Award"
+subtitle = "SECSA CHRIE"
+date = "Mar. 2024"
+content = "Awarded for the paper \"Turning Shadows into Spotlight: The Transformative Power of Memory Distortion in Shaping Positive Festival Experience.\""
+
+[[items]]
+title = "1st Prize, Global Collegiate Marketing Case Competition"
+subtitle = "HSMAI Foundation"
+date = "Apr. 2023"
+content = "Awarded first prize in the Global Collegiate Marketing Case Competition."
+
+[[items]]
+title = "Ross Fellowship"
+subtitle = "Purdue University"
+date = "Aug. 2022 – May. 2026"
+content = "Merit-based fellowship awarded to outstanding incoming doctoral students at Purdue University."
+
+[[items]]
+title = "KHU Fellowship"
+subtitle = "Kyung Hee University"
+date = "Jun. 2021"
+content = "Fellowship awarded in recognition of academic achievement."
+
+[[items]]
+title = "Best Paper Award"
+subtitle = "Korea Tourism Research Association"
+date = "Jul. 2021"
+content = "Awarded for the paper \"Analyzing Image Formation Factors of the Destination from Foreign Tourists Visiting Korea.\""
+
+[[items]]
+title = "Kyung Hee Young Scholar Society (KHYSS) Scholarship"
+subtitle = "Kyung Hee University"
+date = "Nov. 2020"
+content = "Scholarship awarded to promising young scholars at Kyung Hee University."
+[[items]]
+title = "BK21 FOUR Fellowship"
+subtitle = "National Research Foundation of Korea"
+date = "Sep. 2020 – Aug. 2021"
+content = "Fellowship awarded under the BK21 FOUR program supporting graduate research."
