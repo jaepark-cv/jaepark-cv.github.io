@@ -113,6 +113,8 @@ function buildLocalizedConfigMaps(
   };
 }
 
+import Script from 'next/script';
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -166,6 +168,22 @@ export default function RootLayout({
             __html: buildLocaleBootstrapScript(runtimeI18n),
           }}
         />
+
+        {/* 구글 애널리틱스 코드 시작 */}
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-FL9SLL0B5X"
+          strategy="afterInteractive"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-XXXXXX');
+          `}
+        </Script>
+        {/* 구글 애널리틱스 코드 끝 */}
+        
       </head>
       <body className="font-sans antialiased">
         <ThemeProvider>
