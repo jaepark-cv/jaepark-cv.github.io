@@ -6,28 +6,29 @@ description = "Courses I have taught or assisted with."
 title = "CSR 315 Relationship Selling"
 subtitle = "Teaching Assistant, Purdue University"
 date = "Spring 2026"
-content = "Supported course delivery for Relationship Selling, assisting students with course material and coursework."
+content = "Supported course delivery for Relationship Selling, including lectures, sales pitches, role-play exercises, and student learning activities.."
 tags = ["Sales", "Role Play"]
 
 [[items]]
 title = "HTM 255 Fundamentals of Excel & Data Analytics in Services Industries"
 subtitle = "Teaching Assistant (Recitation Instructor), Purdue University"
 date = "Spring 2026"
-content = "Led recitation sessions covering Excel and data analytics applications for the services industries."
+Led recitation sessions on data analytics and data interpretation using Excel.
+content = "Led recitation sessions covering Excel and data analytics applications."
 tags = ["Data Analytics", "Excel"]
 
 [[items]]
 title = "HTM 231 Marketing in Services Industries"
 subtitle = "Instructor of Record, Purdue University"
 date = "Fall 2025"
-content = "Independently designed and delivered course content on marketing principles in services industries (Teaching evaluation: 4.69 out of 5)."
+content = "Independently designed and delivered course content on marketing principles in services industries."
 tags = ["Marketing", "Services Industries"]
 
 [[items]]
 title = "HTM 381 Revenue Management in Services Industries"
 subtitle = "Instructor of Record, Purdue University"
 date = "Spring 2025"
-content = "Independently designed and delivered course content on revenue management strategies in services industries (Teaching evaluation: 4.85 out of 5)."
+content = "Independently designed and delivered course content on revenue management strategies in services industries."
 tags = ["Revenue Management", "Services Industries"]
 
 [[items]]
@@ -41,28 +42,28 @@ tags = ["Revenue Management", "Services Industries"]
 title = "HTM 231 Marketing in Services Industries"
 subtitle = "Teaching Assistant, Purdue University"
 date = "Spring 2024"
-content = "Supported course delivery for Marketing in Services Industries, assisting students with course material and coursework."
+content = "Supported course delivery for Marketing in Services Industries by assisting students with coursework and projects, as well as delivering guest lectures."
 tags = ["Marketing", "Services Industries"]
 
 [[items]]
 title = "CSR 331 Consumer Behavior"
 subtitle = "Teaching Assistant, Purdue University"
 date = "Fall 2023"
-content = "Supported course delivery for Consumer Behavior, assisting students with course material and coursework."
+content = "Supported course delivery for Consumer Behavior by assisting students with coursework and projects, as well as delivering guest lectures."
 tags = ["Consumer Behavior"]
 
 [[items]]
 title = "HTM 370 Sustainable Tourism and Responsible Travel"
 subtitle = "Teaching Assistant, Purdue University"
 date = "Spring 2023"
-content = "Supported course delivery for Sustainable Tourism and Responsible Travel, assisting students with course material and coursework."
+content = "Supported course delivery for Sustainable Tourism and Responsible Travel by assisting students with coursework and projects, as well as delivering guest lectures."
 tags = ["Sustainable Tourism"]
 
 [[items]]
 title = "HTM 291 Introduction to Foodservice Management"
 subtitle = "Teaching Assistant (Lab Instructor), Purdue University"
 date = "Fall 2022 – Spring 2023"
-content = "Led lab sessions for Introduction to Foodservice Management, guiding students through hands-on foodservice operations."
+content = "Led lab sessions for Introduction to Foodservice Management by guiding students through hands-on foodservice operations in a student-run restaurant."
 tags = ["Foodservice Management", "Lab Instruction"]
 
 [[items]]
