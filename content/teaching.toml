@@ -3,6 +3,20 @@ title = "Teaching"
 description = "Courses I have taught or assisted with."
 
 [[items]]
+title = "HTM 162 Introduction to Event and Meeting Planning"
+subtitle = "Instructor of Record, Purdue University"
+date = "Fall 2026"
+content = "Independently designed and delivered course content on event and meeting planning."
+tags = ["Event Planning", "Meeting Planning"]
+
+[[items]]
+title = "HTM 255 Fundamentals of Excel & Data Analytics in Services Industries"
+subtitle = "Instructor of Record, Purdue University"
+date = "Fall 2026"
+content = "Led recitation sessions covering Excel and data analytics applications (second term)."
+tags = ["Data Analytics", "Excel"]
+
+[[items]]
 title = "CSR 315 Relationship Selling"
 subtitle = "Teaching Assistant, Purdue University"
 date = "Spring 2026"
@@ -13,7 +27,7 @@ tags = ["Sales", "Role Play"]
 title = "HTM 255 Fundamentals of Excel & Data Analytics in Services Industries"
 subtitle = "Teaching Assistant (Recitation Instructor), Purdue University"
 date = "Spring 2026"
-content = "Led recitation sessions covering Excel and data analytics applications."
+content = "Led recitation sessions covering Excel and data analytics applications (first term)."
 tags = ["Data Analytics", "Excel"]
 
 [[items]]
